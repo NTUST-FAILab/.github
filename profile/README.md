@@ -1,3 +1,4 @@
+[![](https://github.com/NTUST-FAILab/.github/blob/main/profile/header_v1.png)](https://www.ccchang.cc/)
 Hello everyone ~~ :wave:
 
 We are members of Fintech and Artificial Intelligence Lab(FAILab), Dept. National Taiwan University of Science and Technology (NTUST).
